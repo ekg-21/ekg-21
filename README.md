@@ -1,3 +1,5 @@
+![alt text](https://github.com/[ekg-21]/[ekg-21]/blob/[main]/header.png.jpg?raw=true)
+
 - 👋 Hi, I’m @ekg-21
 - 👀 I’m interested in data science, statistic and bio
 - 🌱 I’m currently learning python, RStudio and SQL
