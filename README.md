@@ -1,4 +1,4 @@
-![alt text](https://github.com/[ekg-21]/[ekg-21]/blob/[main]/header.png.jpg?raw=true)
+[header.pdf](https://github.com/ekg-21/markdown-portfolio/files/5992891/header.pdf)
 
 - 👋 Hi, I’m @ekg-21
 - 👀 I’m interested in data science, statistic and bio
